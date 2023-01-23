@@ -16,7 +16,7 @@
 ### Mirror
 1. Break the mirror to obtain a piece that can be glued to the mirror 3D part
 2. Glue the piece with some hotglue 
-3. Screw one 3M screw to each part of the 3D printed mirro piece
+3. Screw one 3M screw to each side of the 3D printed mirro piece
 ### Light diffractor
 1. **Put on some gloves, oil in the skin will ruin the diffraction grade**
 2. Take the dvd 
