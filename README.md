@@ -20,13 +20,19 @@
 ### Light diffractor
 1. **Put on some gloves, oil in the skin will ruin the diffraction grade**
 2. Take the dvd 
-3. Separete the 2 parts that compose the dvd
-4. Cut a square out of the blueish piece
-5. Shine a light thru it, to check the orientation, the rainbow should be horizontal, place the diffractor in base 3d printed piece
+3. Separate the 2 parts that compose the dvd
+4. Cut a square out of the plae blue piece
+5. Shine a light thru it to check the orientation, the rainbow should be horizontal, place the diffractor in the 3d printed piece named base
 ### Light lid
-1. Glue the led to the opening in the top of the 3d printed piece called light holder
-2. Connect black(neutral) and red(positive) cables to the correspective poles
+1. Glue the LED to the opening in the top of the 3d printed piece called light holder
+2. Connect black(neutral) and red(positive) cables to the correspective poles of the LED
 3. Pass the cables thru the slit in the lid
 ### Assembple everything 
-1. Assemble every piece inside of the base piece
-2. Put on the Base cover first and after put on the light holder
+1. Assemble every piece inside of the base piece, be careful when inserting your camera in the base, the cable should be connected to the camera BEFORE 
+2. **Optional** If you know what are you doing you can attach the black and red cables of the led to the power supply of the camera, you also need to connect a resistance to lower the voltage to 2.9/3V 
+3. Put on the base cover first and after put on the light holder
+You should see something like this at this point
+
+### Software
+1. Download Theremino Spectrometer([here](https://www.theremino.com/wp-content/uploads/files/Theremino_Spectrometer_V3.1.zip))
+2. Attach the usb, put some sample fluid above the slit and enjoy your spectrometer
