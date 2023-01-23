@@ -27,11 +27,19 @@
 1. Glue the LED to the opening in the top of the 3d printed piece called light holder
 2. Connect black(neutral) and red(positive) cables to the correspective poles of the LED
 3. Pass the cables thru the slit in the lid
-### Assembple everything 
+4. Attach two solid piece to side so that when the lid is closing it flushes straight with the base(like in the picture below)
+### Base Lid
+1. Glue a microscope slide to prevent the sample from entering the slit
+### Assemble everything 
 1. Assemble every piece inside of the base piece, be careful when inserting your camera in the base, the cable should be connected to the camera BEFORE 
 2. **Optional** If you know what are you doing you can attach the black and red cables of the led to the power supply of the camera, you also need to connect a resistance to lower the voltage to 2.9/3V 
 3. Put on the base cover first and after put on the light holder
 You should see something like this at this point
+
+![F47BE11D-C9D8-4D10-9F32-AB3864FB65BA](https://user-images.githubusercontent.com/121761685/214043690-c8eab8de-d490-450c-b222-5d3c126b11e4.jpeg)
+
+#### The inside contents
+![05367F09-678D-4E9A-8D9E-1F032E1180B1](https://user-images.githubusercontent.com/121761685/214044285-c72dd2ca-bbbe-4e50-aad9-fb9380339033.jpeg)
 
 ### Software
 1. Download Theremino Spectrometer([here](https://www.theremino.com/wp-content/uploads/files/Theremino_Spectrometer_V3.1.zip))
